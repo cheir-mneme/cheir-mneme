@@ -6,63 +6,41 @@ Building data systems at scale. Former Marine Corps Captain. MBA Candidate at UT
 
 ---
 
+## Current Work
+
+### [Aletheia](https://github.com/cheir-mneme/aletheia)
+Unified media management system supporting books, audiobooks, and movies in a single interface. Forked from Radarr with expanded media type abstractions and multi-library architecture.
+
+`C#` `.NET` `Media Automation` `Self-Hosted`
+
+---
+
 ## Technical Stack
 
-**Languages**  
-Python · JavaScript/React · SQL · R · Fish/Bash
+**Languages**
+Python · C# · JavaScript/React · SQL · R
 
-**Frameworks**  
-FastAPI · React · Pandas · Polars · SQLAlchemy · Celery
+**Data & ML**
+FastAPI · Polars · Pandas · scispaCy · RAG · Vector Embeddings · LLM Integration
 
-**Databases**  
+**Databases**
 PostgreSQL · AWS Redshift · Redis · Qdrant · Elasticsearch · ChromaDB
 
-**AI/ML**  
-RAG · Vector Embeddings · NLP (scispaCy) · LLMs (OpenAI, Anthropic, Ollama)
+**Infrastructure**
+Docker · AWS · Git · Linux Administration
 
-**DevOps**  
-Docker · Portainer · Git · systemd
-
-**Domain**  
-Healthcare Analytics · GDPR · Scientific Computing
+**Domain**
+Healthcare Analytics · NLP · GDPR Compliance
 
 ---
 
-## Featured Projects
-
-### [NASA Mars Sol 200 Analysis](https://github.com/Cody-k/nasa_mars_sol_200_analysis)
-Curiosity Rover mission data analysis with RAD parser and modern Python tooling.
-`Python` `Polars` `Scientific Computing` `pytest`
-
-### [AI Infrastructure Toolkit](https://github.com/Cody-k/ai_infrastructure_toolkit)
-Utilities for LLM applications: LLM-as-Judge evaluation, vector search, prompt templates.
-`Python` `ChromaDB` `Vector Search` `RAG` `LLM`
-
-### [Infrastructure Automation Toolkit](https://github.com/Cody-k/infrastructure_automation_toolkit)
-DevOps utilities for Docker orchestration, system monitoring, and predictive resource management.
-`Python` `Docker` `DevOps` `Monitoring` `Infrastructure`
-
----
-
-## Professional Work
+## Professional
 
 **Data Scientist @ Summus Global** (Healthcare Technology)
-- Systems processing 198,697 records and 5.7M+ events
-- Full-stack applications (React + FastAPI + 4-database architecture)
-- GenAI transcript analysis, enterprise data integration, medical taxonomy
-- NLP pipeline extracting 546,647 medical terms with vector embeddings
+GenAI-powered clinical transcript analysis, full-stack medical taxonomy system (React + FastAPI + distributed 4-database architecture), NLP pipelines extracting 546k+ medical terms with vector embeddings.
 
-**Former:** US Marine Corps Captain · AFRL (Machine Learning, Cybersecurity)
+**Former:** US Marine Corps Captain · AFRL Cybersecurity Research (ML-based intrusion detection)
 
 ---
 
-## Stats
-
-73,000+ LOC across professional and personal projects · Full-stack (Python, React, SQL, APIs, DevOps) · Systems with comprehensive testing
-
----
-
-## Contact
-
-**LinkedIn:** [linkedin.com/in/Cody-Kickertz](https://linkedin.com/in/Cody-Kickertz/)  
-**Email:** Cody.Kickertz@pm.me
+[LinkedIn](https://linkedin.com/in/Cody-Kickertz/) · Cody.Kickertz@pm.me
